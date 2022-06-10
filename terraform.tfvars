@@ -4,7 +4,6 @@ app_environment = "test"     # Dev, Test, Prod, etc
 
 #AWS authentication variables
 aws_key_pair_name = "batcloud-key-pair"
-#aws_key_pair_file = "kopicloud-key-pair.pem"
 aws_region = "us-east-2"
 
 # Application access
